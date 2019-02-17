@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "944604861463",
+    "firebase_url": "https://malayalamquiz-e92ab.firebaseio.com",
+    "project_id": "malayalamquiz-e92ab",
+    "storage_bucket": "malayalamquiz-e92ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944604861463:android:4191a34b405b551f",
+        "android_client_info": {
+          "package_name": "com.melisa.rincemathew.malayalamgkquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944604861463-rgd7ol99pak7kl4t1idq1jjvjpt6a4v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melisa.rincemathew.malayalamgkquiz",
+            "certificate_hash": "2da75532203aeff87f3314a06952e6b067e7a0e9"
+          }
+        },
+        {
+          "client_id": "944604861463-9etbcdehtjdeii8qph38tif2it2mpbc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFS4aHxP00LKSzDhCmw2eXAx-m7z1lSgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944604861463-9etbcdehtjdeii8qph38tif2it2mpbc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
